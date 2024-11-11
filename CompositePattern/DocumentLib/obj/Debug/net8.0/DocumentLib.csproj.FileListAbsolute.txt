@@ -1,0 +1,11 @@
+G:\3\c#\CompositePattern\DocumentLib\bin\Debug\net8.0\DocumentLib.deps.json
+G:\3\c#\CompositePattern\DocumentLib\bin\Debug\net8.0\DocumentLib.dll
+G:\3\c#\CompositePattern\DocumentLib\bin\Debug\net8.0\DocumentLib.pdb
+G:\3\c#\CompositePattern\DocumentLib\obj\Debug\net8.0\DocumentLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\3\c#\CompositePattern\DocumentLib\obj\Debug\net8.0\DocumentLib.AssemblyInfoInputs.cache
+G:\3\c#\CompositePattern\DocumentLib\obj\Debug\net8.0\DocumentLib.AssemblyInfo.cs
+G:\3\c#\CompositePattern\DocumentLib\obj\Debug\net8.0\DocumentLib.csproj.CoreCompileInputs.cache
+G:\3\c#\CompositePattern\DocumentLib\obj\Debug\net8.0\DocumentLib.dll
+G:\3\c#\CompositePattern\DocumentLib\obj\Debug\net8.0\refint\DocumentLib.dll
+G:\3\c#\CompositePattern\DocumentLib\obj\Debug\net8.0\DocumentLib.pdb
+G:\3\c#\CompositePattern\DocumentLib\obj\Debug\net8.0\ref\DocumentLib.dll
