@@ -1,0 +1,11 @@
+G:\3\c#\DecoratorPattern\NotificationLib\bin\Debug\net8.0\NotificationLib.deps.json
+G:\3\c#\DecoratorPattern\NotificationLib\bin\Debug\net8.0\NotificationLib.dll
+G:\3\c#\DecoratorPattern\NotificationLib\bin\Debug\net8.0\NotificationLib.pdb
+G:\3\c#\DecoratorPattern\NotificationLib\obj\Debug\net8.0\NotificationLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\3\c#\DecoratorPattern\NotificationLib\obj\Debug\net8.0\NotificationLib.AssemblyInfoInputs.cache
+G:\3\c#\DecoratorPattern\NotificationLib\obj\Debug\net8.0\NotificationLib.AssemblyInfo.cs
+G:\3\c#\DecoratorPattern\NotificationLib\obj\Debug\net8.0\NotificationLib.csproj.CoreCompileInputs.cache
+G:\3\c#\DecoratorPattern\NotificationLib\obj\Debug\net8.0\NotificationLib.dll
+G:\3\c#\DecoratorPattern\NotificationLib\obj\Debug\net8.0\refint\NotificationLib.dll
+G:\3\c#\DecoratorPattern\NotificationLib\obj\Debug\net8.0\NotificationLib.pdb
+G:\3\c#\DecoratorPattern\NotificationLib\obj\Debug\net8.0\ref\NotificationLib.dll
