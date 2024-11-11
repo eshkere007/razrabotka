@@ -1,0 +1,11 @@
+G:\3\c#\lab1\Product\bin\Debug\net8.0\Product.deps.json
+G:\3\c#\lab1\Product\bin\Debug\net8.0\Product.dll
+G:\3\c#\lab1\Product\bin\Debug\net8.0\Product.pdb
+G:\3\c#\lab1\Product\obj\Debug\net8.0\Product.GeneratedMSBuildEditorConfig.editorconfig
+G:\3\c#\lab1\Product\obj\Debug\net8.0\Product.AssemblyInfoInputs.cache
+G:\3\c#\lab1\Product\obj\Debug\net8.0\Product.AssemblyInfo.cs
+G:\3\c#\lab1\Product\obj\Debug\net8.0\Product.csproj.CoreCompileInputs.cache
+G:\3\c#\lab1\Product\obj\Debug\net8.0\Product.dll
+G:\3\c#\lab1\Product\obj\Debug\net8.0\refint\Product.dll
+G:\3\c#\lab1\Product\obj\Debug\net8.0\Product.pdb
+G:\3\c#\lab1\Product\obj\Debug\net8.0\ref\Product.dll
