@@ -1,0 +1,14 @@
+G:\3\c#\FlyweightPattern\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.exe
+G:\3\c#\FlyweightPattern\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.deps.json
+G:\3\c#\FlyweightPattern\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.runtimeconfig.json
+G:\3\c#\FlyweightPattern\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.dll
+G:\3\c#\FlyweightPattern\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.pdb
+G:\3\c#\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\3\c#\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.AssemblyInfoInputs.cache
+G:\3\c#\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.AssemblyInfo.cs
+G:\3\c#\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.csproj.CoreCompileInputs.cache
+G:\3\c#\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.dll
+G:\3\c#\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\refint\FlyweightPattern.dll
+G:\3\c#\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.pdb
+G:\3\c#\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.genruntimeconfig.cache
+G:\3\c#\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\ref\FlyweightPattern.dll
