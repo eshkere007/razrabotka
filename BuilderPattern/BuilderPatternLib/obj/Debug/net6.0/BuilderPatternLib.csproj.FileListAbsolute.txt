@@ -1,0 +1,11 @@
+G:\3\c#\BuilderPattern\BuilderPatternLib\bin\Debug\net6.0\BuilderPatternLib.deps.json
+G:\3\c#\BuilderPattern\BuilderPatternLib\bin\Debug\net6.0\BuilderPatternLib.dll
+G:\3\c#\BuilderPattern\BuilderPatternLib\bin\Debug\net6.0\BuilderPatternLib.pdb
+G:\3\c#\BuilderPattern\BuilderPatternLib\obj\Debug\net6.0\BuilderPatternLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\3\c#\BuilderPattern\BuilderPatternLib\obj\Debug\net6.0\BuilderPatternLib.AssemblyInfoInputs.cache
+G:\3\c#\BuilderPattern\BuilderPatternLib\obj\Debug\net6.0\BuilderPatternLib.AssemblyInfo.cs
+G:\3\c#\BuilderPattern\BuilderPatternLib\obj\Debug\net6.0\BuilderPatternLib.csproj.CoreCompileInputs.cache
+G:\3\c#\BuilderPattern\BuilderPatternLib\obj\Debug\net6.0\BuilderPatternLib.dll
+G:\3\c#\BuilderPattern\BuilderPatternLib\obj\Debug\net6.0\refint\BuilderPatternLib.dll
+G:\3\c#\BuilderPattern\BuilderPatternLib\obj\Debug\net6.0\BuilderPatternLib.pdb
+G:\3\c#\BuilderPattern\BuilderPatternLib\obj\Debug\net6.0\ref\BuilderPatternLib.dll
