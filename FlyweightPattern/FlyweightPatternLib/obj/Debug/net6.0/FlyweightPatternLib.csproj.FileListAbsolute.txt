@@ -1,0 +1,11 @@
+G:\3\c#\FlyweightPattern\FlyweightPatternLib\bin\Debug\net6.0\FlyweightPatternLib.deps.json
+G:\3\c#\FlyweightPattern\FlyweightPatternLib\bin\Debug\net6.0\FlyweightPatternLib.dll
+G:\3\c#\FlyweightPattern\FlyweightPatternLib\bin\Debug\net6.0\FlyweightPatternLib.pdb
+G:\3\c#\FlyweightPattern\FlyweightPatternLib\obj\Debug\net6.0\FlyweightPatternLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\3\c#\FlyweightPattern\FlyweightPatternLib\obj\Debug\net6.0\FlyweightPatternLib.AssemblyInfoInputs.cache
+G:\3\c#\FlyweightPattern\FlyweightPatternLib\obj\Debug\net6.0\FlyweightPatternLib.AssemblyInfo.cs
+G:\3\c#\FlyweightPattern\FlyweightPatternLib\obj\Debug\net6.0\FlyweightPatternLib.csproj.CoreCompileInputs.cache
+G:\3\c#\FlyweightPattern\FlyweightPatternLib\obj\Debug\net6.0\FlyweightPatternLib.dll
+G:\3\c#\FlyweightPattern\FlyweightPatternLib\obj\Debug\net6.0\refint\FlyweightPatternLib.dll
+G:\3\c#\FlyweightPattern\FlyweightPatternLib\obj\Debug\net6.0\FlyweightPatternLib.pdb
+G:\3\c#\FlyweightPattern\FlyweightPatternLib\obj\Debug\net6.0\ref\FlyweightPatternLib.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FlyweightPattern/1.0.0": {
+        "dependencies": {
+          "FlyweightPatternLib": "1.0.0"
+        },
+        "runtime": {
+          "FlyweightPattern.dll": {}
+        }
+      },
+      "FlyweightPatternLib/1.0.0": {
+        "runtime": {
+          "FlyweightPatternLib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlyweightPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FlyweightPatternLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
