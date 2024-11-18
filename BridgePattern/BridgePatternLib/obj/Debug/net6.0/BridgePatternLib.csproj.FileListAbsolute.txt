@@ -1,0 +1,11 @@
+G:\3\c#\BridgePattern\BridgePatternLib\bin\Debug\net6.0\BridgePatternLib.deps.json
+G:\3\c#\BridgePattern\BridgePatternLib\bin\Debug\net6.0\BridgePatternLib.dll
+G:\3\c#\BridgePattern\BridgePatternLib\bin\Debug\net6.0\BridgePatternLib.pdb
+G:\3\c#\BridgePattern\BridgePatternLib\obj\Debug\net6.0\BridgePatternLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\3\c#\BridgePattern\BridgePatternLib\obj\Debug\net6.0\BridgePatternLib.AssemblyInfoInputs.cache
+G:\3\c#\BridgePattern\BridgePatternLib\obj\Debug\net6.0\BridgePatternLib.AssemblyInfo.cs
+G:\3\c#\BridgePattern\BridgePatternLib\obj\Debug\net6.0\BridgePatternLib.csproj.CoreCompileInputs.cache
+G:\3\c#\BridgePattern\BridgePatternLib\obj\Debug\net6.0\BridgePatternLib.dll
+G:\3\c#\BridgePattern\BridgePatternLib\obj\Debug\net6.0\refint\BridgePatternLib.dll
+G:\3\c#\BridgePattern\BridgePatternLib\obj\Debug\net6.0\BridgePatternLib.pdb
+G:\3\c#\BridgePattern\BridgePatternLib\obj\Debug\net6.0\ref\BridgePatternLib.dll
