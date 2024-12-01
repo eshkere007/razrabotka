@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ChainOfResponsibilityPattern/1.0.0": {
+        "dependencies": {
+          "ChainOfResponsibilityPatternLib": "1.0.0"
+        },
+        "runtime": {
+          "ChainOfResponsibilityPattern.dll": {}
+        }
+      },
+      "ChainOfResponsibilityPatternLib/1.0.0": {
+        "runtime": {
+          "ChainOfResponsibilityPatternLib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChainOfResponsibilityPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChainOfResponsibilityPatternLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

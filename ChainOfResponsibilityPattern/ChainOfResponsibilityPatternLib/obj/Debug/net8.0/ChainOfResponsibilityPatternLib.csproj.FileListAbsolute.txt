@@ -1,0 +1,11 @@
+C:\Users\DaMort\Downloads\forvi\ChainOfResponsibilityPattern-main\ChainOfResponsibilityPatternLib\bin\Debug\net8.0\ChainOfResponsibilityPatternLib.deps.json
+C:\Users\DaMort\Downloads\forvi\ChainOfResponsibilityPattern-main\ChainOfResponsibilityPatternLib\bin\Debug\net8.0\ChainOfResponsibilityPatternLib.dll
+C:\Users\DaMort\Downloads\forvi\ChainOfResponsibilityPattern-main\ChainOfResponsibilityPatternLib\bin\Debug\net8.0\ChainOfResponsibilityPatternLib.pdb
+C:\Users\DaMort\Downloads\forvi\ChainOfResponsibilityPattern-main\ChainOfResponsibilityPatternLib\obj\Debug\net8.0\ChainOfResponsibilityPatternLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaMort\Downloads\forvi\ChainOfResponsibilityPattern-main\ChainOfResponsibilityPatternLib\obj\Debug\net8.0\ChainOfResponsibilityPatternLib.AssemblyInfoInputs.cache
+C:\Users\DaMort\Downloads\forvi\ChainOfResponsibilityPattern-main\ChainOfResponsibilityPatternLib\obj\Debug\net8.0\ChainOfResponsibilityPatternLib.AssemblyInfo.cs
+C:\Users\DaMort\Downloads\forvi\ChainOfResponsibilityPattern-main\ChainOfResponsibilityPatternLib\obj\Debug\net8.0\ChainOfResponsibilityPatternLib.csproj.CoreCompileInputs.cache
+C:\Users\DaMort\Downloads\forvi\ChainOfResponsibilityPattern-main\ChainOfResponsibilityPatternLib\obj\Debug\net8.0\ChainOfResponsibilityPatternLib.dll
+C:\Users\DaMort\Downloads\forvi\ChainOfResponsibilityPattern-main\ChainOfResponsibilityPatternLib\obj\Debug\net8.0\refint\ChainOfResponsibilityPatternLib.dll
+C:\Users\DaMort\Downloads\forvi\ChainOfResponsibilityPattern-main\ChainOfResponsibilityPatternLib\obj\Debug\net8.0\ChainOfResponsibilityPatternLib.pdb
+C:\Users\DaMort\Downloads\forvi\ChainOfResponsibilityPattern-main\ChainOfResponsibilityPatternLib\obj\Debug\net8.0\ref\ChainOfResponsibilityPatternLib.dll
