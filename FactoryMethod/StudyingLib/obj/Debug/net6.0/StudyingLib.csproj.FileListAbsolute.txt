@@ -1,0 +1,11 @@
+C:\колледж\hgv\3\c#\lab3\StudyingLib\bin\Debug\net6.0\StudyingLib.deps.json
+C:\колледж\hgv\3\c#\lab3\StudyingLib\bin\Debug\net6.0\StudyingLib.dll
+C:\колледж\hgv\3\c#\lab3\StudyingLib\bin\Debug\net6.0\StudyingLib.pdb
+C:\колледж\hgv\3\c#\lab3\StudyingLib\obj\Debug\net6.0\StudyingLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\колледж\hgv\3\c#\lab3\StudyingLib\obj\Debug\net6.0\StudyingLib.AssemblyInfoInputs.cache
+C:\колледж\hgv\3\c#\lab3\StudyingLib\obj\Debug\net6.0\StudyingLib.AssemblyInfo.cs
+C:\колледж\hgv\3\c#\lab3\StudyingLib\obj\Debug\net6.0\StudyingLib.csproj.CoreCompileInputs.cache
+C:\колледж\hgv\3\c#\lab3\StudyingLib\obj\Debug\net6.0\StudyingLib.dll
+C:\колледж\hgv\3\c#\lab3\StudyingLib\obj\Debug\net6.0\refint\StudyingLib.dll
+C:\колледж\hgv\3\c#\lab3\StudyingLib\obj\Debug\net6.0\StudyingLib.pdb
+C:\колледж\hgv\3\c#\lab3\StudyingLib\obj\Debug\net6.0\ref\StudyingLib.dll
