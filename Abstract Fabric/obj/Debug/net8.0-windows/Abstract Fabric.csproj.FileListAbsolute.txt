@@ -1,0 +1,32 @@
+F:\HCI\3kyrs\1sem\c#\Abstract Fabric\bin\Debug\net8.0-windows\Abstract Fabric.exe
+F:\HCI\3kyrs\1sem\c#\Abstract Fabric\bin\Debug\net8.0-windows\Abstract Fabric.deps.json
+F:\HCI\3kyrs\1sem\c#\Abstract Fabric\bin\Debug\net8.0-windows\Abstract Fabric.runtimeconfig.json
+F:\HCI\3kyrs\1sem\c#\Abstract Fabric\bin\Debug\net8.0-windows\Abstract Fabric.dll
+F:\HCI\3kyrs\1sem\c#\Abstract Fabric\bin\Debug\net8.0-windows\Abstract Fabric.pdb
+F:\HCI\3kyrs\1sem\c#\Abstract Fabric\obj\Debug\net8.0-windows\Abstract Fabric.csproj.GenerateResource.cache
+F:\HCI\3kyrs\1sem\c#\Abstract Fabric\obj\Debug\net8.0-windows\Abstract Fabric.GeneratedMSBuildEditorConfig.editorconfig
+F:\HCI\3kyrs\1sem\c#\Abstract Fabric\obj\Debug\net8.0-windows\Abstract Fabric.AssemblyInfoInputs.cache
+F:\HCI\3kyrs\1sem\c#\Abstract Fabric\obj\Debug\net8.0-windows\Abstract Fabric.AssemblyInfo.cs
+F:\HCI\3kyrs\1sem\c#\Abstract Fabric\obj\Debug\net8.0-windows\Abstract Fabric.csproj.CoreCompileInputs.cache
+F:\HCI\3kyrs\1sem\c#\Abstract Fabric\obj\Debug\net8.0-windows\Abstract Fabric.dll
+F:\HCI\3kyrs\1sem\c#\Abstract Fabric\obj\Debug\net8.0-windows\refint\Abstract Fabric.dll
+F:\HCI\3kyrs\1sem\c#\Abstract Fabric\obj\Debug\net8.0-windows\Abstract Fabric.pdb
+F:\HCI\3kyrs\1sem\c#\Abstract Fabric\obj\Debug\net8.0-windows\Abstract Fabric.genruntimeconfig.cache
+F:\HCI\3kyrs\1sem\c#\Abstract Fabric\obj\Debug\net8.0-windows\ref\Abstract Fabric.dll
+F:\HCI\3kyrs\1sem\c#\Abstract Fabric\obj\Debug\net8.0-windows\Abstract_Fabric.FabricsForm.resources
+C:\Users\DaMort\Downloads\forvi\Abstract Fabric\bin\Debug\net8.0-windows\Abstract Fabric.exe
+C:\Users\DaMort\Downloads\forvi\Abstract Fabric\bin\Debug\net8.0-windows\Abstract Fabric.deps.json
+C:\Users\DaMort\Downloads\forvi\Abstract Fabric\bin\Debug\net8.0-windows\Abstract Fabric.runtimeconfig.json
+C:\Users\DaMort\Downloads\forvi\Abstract Fabric\bin\Debug\net8.0-windows\Abstract Fabric.dll
+C:\Users\DaMort\Downloads\forvi\Abstract Fabric\bin\Debug\net8.0-windows\Abstract Fabric.pdb
+C:\Users\DaMort\Downloads\forvi\Abstract Fabric\obj\Debug\net8.0-windows\Abstract_Fabric.FabricsForm.resources
+C:\Users\DaMort\Downloads\forvi\Abstract Fabric\obj\Debug\net8.0-windows\Abstract Fabric.csproj.GenerateResource.cache
+C:\Users\DaMort\Downloads\forvi\Abstract Fabric\obj\Debug\net8.0-windows\Abstract Fabric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaMort\Downloads\forvi\Abstract Fabric\obj\Debug\net8.0-windows\Abstract Fabric.AssemblyInfoInputs.cache
+C:\Users\DaMort\Downloads\forvi\Abstract Fabric\obj\Debug\net8.0-windows\Abstract Fabric.AssemblyInfo.cs
+C:\Users\DaMort\Downloads\forvi\Abstract Fabric\obj\Debug\net8.0-windows\Abstract Fabric.csproj.CoreCompileInputs.cache
+C:\Users\DaMort\Downloads\forvi\Abstract Fabric\obj\Debug\net8.0-windows\Abstract Fabric.dll
+C:\Users\DaMort\Downloads\forvi\Abstract Fabric\obj\Debug\net8.0-windows\refint\Abstract Fabric.dll
+C:\Users\DaMort\Downloads\forvi\Abstract Fabric\obj\Debug\net8.0-windows\Abstract Fabric.pdb
+C:\Users\DaMort\Downloads\forvi\Abstract Fabric\obj\Debug\net8.0-windows\Abstract Fabric.genruntimeconfig.cache
+C:\Users\DaMort\Downloads\forvi\Abstract Fabric\obj\Debug\net8.0-windows\ref\Abstract Fabric.dll
