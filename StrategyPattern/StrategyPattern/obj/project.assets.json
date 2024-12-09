@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "GameLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/GameLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameLib/1.0.0": {
+      "type": "project",
+      "path": "../GameLib/GameLib.csproj",
+      "msbuildProject": "../GameLib/GameLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "GameLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\xxx\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\колледж\\hgv\\3\\c#\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
+      "projectName": "StrategyPattern",
+      "projectPath": "C:\\колледж\\hgv\\3\\c#\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
+      "packagesPath": "C:\\Users\\xxx\\.nuget\\packages\\",
+      "outputPath": "C:\\колледж\\hgv\\3\\c#\\StrategyPattern\\StrategyPattern\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\xxx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\колледж\\hgv\\3\\c#\\StrategyPattern\\GameLib\\GameLib.csproj": {
+              "projectPath": "C:\\колледж\\hgv\\3\\c#\\StrategyPattern\\GameLib\\GameLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

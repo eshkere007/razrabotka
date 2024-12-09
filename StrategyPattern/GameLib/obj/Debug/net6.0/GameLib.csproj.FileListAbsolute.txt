@@ -1,0 +1,11 @@
+C:\колледж\hgv\3\c#\StrategyPattern\GameLib\bin\Debug\net6.0\GameLib.deps.json
+C:\колледж\hgv\3\c#\StrategyPattern\GameLib\bin\Debug\net6.0\GameLib.dll
+C:\колледж\hgv\3\c#\StrategyPattern\GameLib\bin\Debug\net6.0\GameLib.pdb
+C:\колледж\hgv\3\c#\StrategyPattern\GameLib\obj\Debug\net6.0\GameLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\колледж\hgv\3\c#\StrategyPattern\GameLib\obj\Debug\net6.0\GameLib.AssemblyInfoInputs.cache
+C:\колледж\hgv\3\c#\StrategyPattern\GameLib\obj\Debug\net6.0\GameLib.AssemblyInfo.cs
+C:\колледж\hgv\3\c#\StrategyPattern\GameLib\obj\Debug\net6.0\GameLib.csproj.CoreCompileInputs.cache
+C:\колледж\hgv\3\c#\StrategyPattern\GameLib\obj\Debug\net6.0\GameLib.dll
+C:\колледж\hgv\3\c#\StrategyPattern\GameLib\obj\Debug\net6.0\refint\GameLib.dll
+C:\колледж\hgv\3\c#\StrategyPattern\GameLib\obj\Debug\net6.0\GameLib.pdb
+C:\колледж\hgv\3\c#\StrategyPattern\GameLib\obj\Debug\net6.0\ref\GameLib.dll
