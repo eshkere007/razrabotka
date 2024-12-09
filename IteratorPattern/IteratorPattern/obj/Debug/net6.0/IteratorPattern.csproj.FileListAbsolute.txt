@@ -1,0 +1,14 @@
+C:\колледж\hgv\3\c#\IteratorPattern\IteratorPattern\bin\Debug\net6.0\IteratorPattern.exe
+C:\колледж\hgv\3\c#\IteratorPattern\IteratorPattern\bin\Debug\net6.0\IteratorPattern.deps.json
+C:\колледж\hgv\3\c#\IteratorPattern\IteratorPattern\bin\Debug\net6.0\IteratorPattern.runtimeconfig.json
+C:\колледж\hgv\3\c#\IteratorPattern\IteratorPattern\bin\Debug\net6.0\IteratorPattern.dll
+C:\колледж\hgv\3\c#\IteratorPattern\IteratorPattern\bin\Debug\net6.0\IteratorPattern.pdb
+C:\колледж\hgv\3\c#\IteratorPattern\IteratorPattern\obj\Debug\net6.0\IteratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\колледж\hgv\3\c#\IteratorPattern\IteratorPattern\obj\Debug\net6.0\IteratorPattern.AssemblyInfoInputs.cache
+C:\колледж\hgv\3\c#\IteratorPattern\IteratorPattern\obj\Debug\net6.0\IteratorPattern.AssemblyInfo.cs
+C:\колледж\hgv\3\c#\IteratorPattern\IteratorPattern\obj\Debug\net6.0\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\колледж\hgv\3\c#\IteratorPattern\IteratorPattern\obj\Debug\net6.0\IteratorPattern.dll
+C:\колледж\hgv\3\c#\IteratorPattern\IteratorPattern\obj\Debug\net6.0\refint\IteratorPattern.dll
+C:\колледж\hgv\3\c#\IteratorPattern\IteratorPattern\obj\Debug\net6.0\IteratorPattern.pdb
+C:\колледж\hgv\3\c#\IteratorPattern\IteratorPattern\obj\Debug\net6.0\IteratorPattern.genruntimeconfig.cache
+C:\колледж\hgv\3\c#\IteratorPattern\IteratorPattern\obj\Debug\net6.0\ref\IteratorPattern.dll
