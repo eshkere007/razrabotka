@@ -1,0 +1,14 @@
+C:\колледж\hgv\patterns\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.exe
+C:\колледж\hgv\patterns\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.deps.json
+C:\колледж\hgv\patterns\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.runtimeconfig.json
+C:\колледж\hgv\patterns\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.dll
+C:\колледж\hgv\patterns\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.pdb
+C:\колледж\hgv\patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\колледж\hgv\patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.AssemblyInfoInputs.cache
+C:\колледж\hgv\patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.AssemblyInfo.cs
+C:\колледж\hgv\patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+C:\колледж\hgv\patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.dll
+C:\колледж\hgv\patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net6.0\refint\TemplateMethodPattern.dll
+C:\колледж\hgv\patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.pdb
+C:\колледж\hgv\patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.genruntimeconfig.cache
+C:\колледж\hgv\patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net6.0\ref\TemplateMethodPattern.dll
